@@ -1,0 +1,47 @@
+body {
+    background-color: #000000;
+    margin: 30px; 
+    font-family: Arial, sans-serif;
+    height: 100%;
+}
+h1 {
+    color: rgb(146, 4, 4);
+}
+p { font-family: Verdana;
+color: whitesmoke;}
+.container img {
+    display: block;
+    max-width: 100%; 
+    height: auto; 
+    border: 2px solid rgb(255, 255, 255); /* Borda sólida de 2 pixels com cor preta */
+    display: inline-block; 
+}
+.p2 {font-family: verdana; 
+color: whitesmoke;}
+
+h2 { font-family:Arial, sans-serif;
+color: rgb(172, 66, 66);}
+
+.p3 {font-family: verdana;
+color: whitesmoke}
+
+.kl {font-family: arial, sans-serif;
+    color:rgb(172, 66, 66)
+}
+
+.p4 {font-family: verdana;
+color: whitesmoke;}
+
+.km {font-family: arial, sans-serif;
+color:rgb(172, 66, 66)}
+
+.container {max-width: 80%; 
+    clear: both;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    margin-left: 10px; 
+    margin-right: 10px;
+padding: 25px;
+border: 2px solid #000000; /* Borda sólida de 2 pixels com cor preta */
+display: inline-block; 
+}
